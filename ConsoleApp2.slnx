@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ConsoleApp1/ConsoleApp1.csproj" Id="da3200d0-218a-4e30-b385-4525814fba84" />
+  <Project Path="ConsoleApp2/ConsoleApp2.csproj" />
+  <Project Path="ConsoleApp3/ConsoleApp3.csproj" Id="ae9051f0-9a54-479e-a10b-f689cda76963" />
+</Solution>
